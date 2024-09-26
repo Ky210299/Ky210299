@@ -17,7 +17,7 @@ I believe in keeping things fun and staying curious. Whether it's tinkering with
 
 I love connecting with fellow developers! If you want to exchange ideas, collaborate on a project, or just geek out about the latest tech trends, don't hesitate to reach out!
 
-I like JavaScript and node.js, Python, Golang, Rust and love Neovim!
+I like JavaScript and node.js, Rust and love Neovim!
 Happy coding! 💻✨
 
 <!---

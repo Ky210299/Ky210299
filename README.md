@@ -1,26 +1,20 @@
-# Hi, I’m Leonardo. Welcome to my digital playground! 👋
+# Leonardo - Software Developer
 
-I'm a code enthusiast who loves exploring the vast world of development. My passion for technology drives me to dive into new challenges and learn continuously.
+## About Me
+I am a dedicated software developer with a passion for creating innovative solutions and exploring emerging technologies. With a strong foundation in JavaScript and Node.js, I am continually expanding my skill set to include Rust and advanced development tools.
 
-## What makes me tick?
+## Areas of Expertise
+- **Backend Development**: Proficient in building scalable APIs and web applications using Node.js.
+- **Frontend Technologies**: Familiar with modern frontend frameworks and best practices.
+- **Game Development**: Enthusiastic about exploring the principles of game design and development.
+- **DevOps Practices**: Knowledgeable in utilizing tools and practices to streamline development and deployment processes.
 
-🚀 Crafting elegant solutions to complex problems
-🌱 Growing new skills and mastering different languages
-🎮 Venturing into the fascinating universe of game development
-🛠️ Building useful tools, from web apps to command-line utilities
+## Professional Approach
+I believe in the importance of clean code, robust architecture, and continuous learning. I enjoy collaborating with fellow developers to share ideas, tackle challenges, and contribute to impactful projects.
 
-## My approach
+## Let's Connect!
+I am always open to networking and exploring collaboration opportunities. Feel free to reach out if you want to discuss technology, share insights, or work on a project together!
 
-I believe in keeping things fun and staying curious. Whether it's tinkering with machine learning or diving into futuristic languages, I'm always up for a new coding adventure.
+---
 
-## Let's chat!
-
-I love connecting with fellow developers! If you want to exchange ideas, collaborate on a project, or just geek out about the latest tech trends, don't hesitate to reach out!
-
-I like JavaScript and node.js, Rust and love Neovim!
-Happy coding! 💻✨
-
-<!---
-Ky210299/Ky210299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Happy coding!

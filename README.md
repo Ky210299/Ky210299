@@ -3,7 +3,7 @@
 ## About Me
 I am a dedicated software developer with a passion for creating innovative solutions and exploring emerging technologies. With a strong foundation in JavaScript and Node.js, I am continually expanding my skill set to include Rust and advanced development tools.
 
-## Areas of Expertise
+## Areas of interest 
 - **Backend Development**: Proficient in building scalable APIs and web applications using Node.js.
 - **Frontend Technologies**: Familiar with modern frontend frameworks and best practices.
 - **Game Development**: Enthusiastic about exploring the principles of game design and development.

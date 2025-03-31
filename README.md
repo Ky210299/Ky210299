@@ -16,5 +16,10 @@ I believe in the importance of clean code, robust architecture, and continuous l
 I am always open to networking and exploring collaboration opportunities. Feel free to reach out if you want to discuss technology, share insights, or work on a project together!
 
 ---
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ky210299&show_icons=true&theme=dark)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ky210299&layout=compact&theme=dark)
 
 Happy coding!
